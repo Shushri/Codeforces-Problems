@@ -1,0 +1,1 @@
+#include <bits/stdc++.h>using namespace std; using ll = long long;const ll md=1000000007; void solve() {    ll n;    cin>>n;    ll a=(((n*(n+1))%md *(4*n-1))%md *337)%md;      cout<<a<<endl;        } int main() {    ios_base::sync_with_stdio(false);    cin.tie(NULL);    cout.tie(NULL);     ll t;    cin >> t;    while (t--) {        solve();    }    return 0;}
