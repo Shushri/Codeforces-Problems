@@ -6,21 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 7 |
+| 7 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [bitmasks](#bitmasks) (1)
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
+- [fft](#fft) (1)
 - [games](#games) (2)
-- [greedy](#greedy) (4)
-- [math](#math) (2)
+- [greedy](#greedy) (5)
+- [math](#math) (3)
 - [number theory](#number-theory) (2)
 - [strings](#strings) (2)
 
 ---
+
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 
 ### constructive algorithms
 
@@ -32,9 +40,16 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+
+### fft
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 
 ### games
 
@@ -47,6 +62,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
@@ -56,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2203B | [Beautiful Numbers](https://codeforces.com/contest/2203/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2203/B%20-%20Beautiful%20Numbers/solution.cpp) |
 | 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
