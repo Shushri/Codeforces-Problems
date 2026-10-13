@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 7 |
+| 5 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (1)
-- [games](#games) (1)
-- [greedy](#greedy) (3)
+- [dp](#dp) (2)
+- [games](#games) (2)
+- [greedy](#greedy) (4)
 - [math](#math) (1)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -32,18 +32,21 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
 ### games
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### greedy
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
@@ -64,6 +67,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2266C | [AND, OR, Sort!](https://codeforces.com/contest/2266/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/C%20-%20AND%2C%20OR%2C%20Sort!/solution.cpp) |
 
 ---
