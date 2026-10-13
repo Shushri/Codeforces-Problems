@@ -6,18 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 5 | 7 |
+| 6 | 7 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [constructive algorithms](#constructive-algorithms) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [games](#games) (2)
 - [greedy](#greedy) (4)
-- [math](#math) (1)
-- [number theory](#number-theory) (1)
+- [math](#math) (2)
+- [number theory](#number-theory) (2)
 - [strings](#strings) (2)
 
 ---
@@ -32,6 +32,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
@@ -55,12 +56,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
 
 ### number theory
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 2238B | [Crimson Triples](https://codeforces.com/contest/2238/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2238/B%20-%20Crimson%20Triples/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/Shushri/Codeforces-Problems/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 
 ### strings
